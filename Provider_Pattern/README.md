@@ -1,4 +1,4 @@
-Provider Pattern
+# Provider Pattern
 
 ## Share a single global instance throughout our application.
 
